@@ -1,0 +1,62 @@
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.exe
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.deps.json
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.runtimeconfig.json
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.runtimeconfig.dev.json
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.pdb
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.csproj.AssemblyReference.cache
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.AssemblyInfoInputs.cache
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.AssemblyInfo.cs
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.csproj.CoreCompileInputs.cache
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\staticwebassets\StudentDemo.StaticWebAssets.Manifest.cache
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\staticwebassets\StudentDemo.StaticWebAssets.xml
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudentDemo.styles.css
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.RazorTargetAssemblyInfo.cache
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.pdb
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.genruntimeconfig.cache
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PORGAT D.ACE\Desktop\Demo\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.exe
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.deps.json
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.runtimeconfig.json
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.runtimeconfig.dev.json
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.pdb
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.csprojAssemblyReference.cache
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.AssemblyInfoInputs.cache
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.AssemblyInfo.cs
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.csproj.CoreCompileInputs.cache
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\staticwebassets\StudentDemo.StaticWebAssets.Manifest.cache
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\staticwebassets\StudentDemo.StaticWebAssets.xml
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudentDemo.styles.css
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.RazorTargetAssemblyInfo.cache
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.csproj.CopyComplete
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.dll
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.pdb
+C:\Users\caoan\Downloads\StudentDemo\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.genruntimeconfig.cache
